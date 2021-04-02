@@ -1,0 +1,11 @@
+{
+  "name": "bluetooth.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-13",
+    "as-table": "^1.0.55"
+  }
+}

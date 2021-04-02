@@ -1,0 +1,53 @@
+Services
+
+uuid                              name                        type                                    
+------------------------------------------------------------------------------------------------------
+180a                              Device Information          org.bluetooth.service.device_information
+000015300000351221180009af100700  null                        null                                    
+fee0                              null                        null                                    
+fee1                              null                        null                                    
+180d                              Heart Rate                  org.bluetooth.service.heart_rate        
+1811                              Alert Notification Service  org.bluetooth.service.alert_notification
+1802                              Immediate Alert             org.bluetooth.service.immediate_alert   
+3802                              null                        null                                    
+
+
+Chars
+
+uuid                              name                                        type                                                                       
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+2a25                              Serial Number String                        org.bluetooth.characteristic.serial_number_string                          
+2a27                              Hardware Revision String                    org.bluetooth.characteristic.hardware_revision_string                      
+2a28                              Software Revision String                    org.bluetooth.characteristic.software_revision_string                      
+2a23                              System ID                                   org.bluetooth.characteristic.system_id                                     
+2a50                              PnP ID                                      org.bluetooth.characteristic.pnp_id                                        
+000000140000351221180009af100700  null                                        null                                                                       
+000015310000351221180009af100700  null                                        null                                                                       
+000015320000351221180009af100700  null                                        null                                                                       
+2a2b                              Current Time                                org.bluetooth.characteristic.current_time                                  
+2a04                              Peripheral Preferred Connection Parameters  org.bluetooth.characteristic.gap.peripheral_preferred_connection_parameters
+000000010000351221180009af100700  null                                        null                                                                       
+000000020000351221180009af100700  null                                        null                                                                       
+000000030000351221180009af100700  null                                        null                                                                       
+000000040000351221180009af100700  null                                        null                                                                       
+000000050000351221180009af100700  null                                        null                                                                       
+000000060000351221180009af100700  null                                        null                                                                       
+000000070000351221180009af100700  null                                        null                                                                       
+000000080000351221180009af100700  null                                        null                                                                       
+000000100000351221180009af100700  null                                        null                                                                       
+0000000e0000351221180009af100700  null                                        null                                                                       
+000000200000351221180009af100700  null                                        null                                                                       
+000000090000351221180009af100700  null                                        null                                                                       
+fedd                              null                                        null                                                                       
+fede                              null                                        null                                                                       
+fedf                              null                                        null                                                                       
+fed0                              null                                        null                                                                       
+fed1                              null                                        null                                                                       
+fed2                              null                                        null                                                                       
+fed3                              null                                        null                                                                       
+2a37                              Heart Rate Measurement                      org.bluetooth.characteristic.heart_rate_measurement                        
+2a39                              Heart Rate Control Point                    org.bluetooth.characteristic.heart_rate_control_point                      
+2a46                              New Alert                                   org.bluetooth.characteristic.new_alert                                     
+2a44                              Alert Notification Control Point            org.bluetooth.characteristic.alert_notification_control_point              
+2a06                              Alert Level                                 org.bluetooth.characteristic.alert_level                                   
+4a02                              null                                        null      
